@@ -1,0 +1,6 @@
+boto3
+re
+pandas
+streamlit
+word2number
+dateutil
